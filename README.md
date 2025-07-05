@@ -16,7 +16,7 @@
 ---
 
 - 🔭 I’m currently working on expanding my skills in Full Stack and Artificial Intelligence development.  
-- 🌱 I’m currently learning React, FastAPI, TypeScript, C#, and deepening my knowledge in AI and machine learning.  
+- 🌱 I’m currently learning Python,React, FastAPI, Javascript, and deepening my knowledge in AI and machine learning.  
 - 👯 I’m looking to collaborate on open source projects, applied AI solutions, and creative tech initiatives.  
 - 🤔 I’m looking for help with advanced AI concepts, real-world deployment strategies, and scaling full stack applications. 
 - ⚡ Fun fact: When I’m not coding, I’m behind a drum kit keeping the rhythm alive—yes, I’m a drummer! 🥁🎶
@@ -28,7 +28,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,7 +54,6 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
 ## 📊 Profile Statistics
