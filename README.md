@@ -15,7 +15,7 @@
 
 ---
 
-- 🔭 I’m currently working on expanding my skills in Full Stack and Artificial Intelligence development.  
+- 🔭 I’m currently widening my skills in AI at Factoria F5.  
 - 🌱 I’m currently learning Python,React, FastAPI, Javascript, and deepening my knowledge in AI and machine learning.  
 - 👯 I’m looking to collaborate on open source projects, applied AI solutions, and creative tech initiatives.  
 - 🤔 I’m looking for help with advanced AI concepts, real-world deployment strategies, and scaling full stack applications. 
