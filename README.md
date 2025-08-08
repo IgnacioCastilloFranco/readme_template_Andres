@@ -16,7 +16,7 @@
 ---
 
 - 🔭 I’m currently deepening my knowledge of AI at [Factoria F5](https://factoriaf5.org/)
-- ⚡ Fun fact: I cycled 18k kms. arround the world 🚲
+- ⚡ Fun fact: I cycled 18k kms. around the world 🚲
 
 ## 🛠 &nbsp;Tech Stack
 
