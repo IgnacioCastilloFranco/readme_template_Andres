@@ -15,11 +15,8 @@
 
 ---
 
-- 🔭 I’m currently widening my skills in AI at Factoria [F5](https://factoriaf5.org/).  
-- 🌱 I’m currently learning Python,React, FastAPI, Javascript, and deepening my knowledge in AI and machine learning.  
-- 👯 I’m looking to collaborate on open source projects, applied AI solutions, and creative tech initiatives.  
-- 🤔 I’m looking for help with advanced AI concepts, real-world deployment strategies, and scaling full stack applications. 
-- ⚡ Fun fact: When I’m not coding, I’m behind a drum kit keeping the rhythm alive—yes, I’m a drummer! 🥁🎶
+- 🔭 I’m currently deepening my knowledge of AI at [Factoria F5](https://factoriaf5.org/)
+- ⚡ Fun fact: I cycled 18k kms. arround the world 🚲
 
 ## 🛠 &nbsp;Tech Stack
 
