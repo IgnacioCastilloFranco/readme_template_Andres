@@ -2,7 +2,7 @@
 
 <div align="center"><img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true /></div>
 
-<h3 align="center">Hi, I'm Andres Lázaro</h3>
+<h3 align="center">Hi there!, I'm Ignacio Castillo Franco</h3>
 
 
 <p align="center">
